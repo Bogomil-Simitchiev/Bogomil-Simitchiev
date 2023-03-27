@@ -25,6 +25,6 @@
 <hr width="48%"/>
 <h3 align="left">GitHub Stats:</h3>
 
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bogomil-simitchiev&show_icons=true&locale=en" /></a>
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bogomil-simitchiev&" /></a>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bogomil-simitchiev&show_icons=true&locale=en" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bogomil-simitchiev&show_icons=true&locale=en&layout=compac" alt="GitHub Stats" /></a>
