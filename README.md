@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on - <b>projects and exercises</b>
 
-- 🌱 I’m currently learning - <b>JavaScript, React, HTML and CSS</b>
+- 🌱 I’m currently learning - <b>JavaScript, HTML and CSS</b>
 
 - 📫 How to reach me - <b>simitchiev365@gmail.com</b>
 
@@ -15,6 +15,7 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://twitter.com/@b_simitchiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@b_simitchiev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bogomil-simitchiev-97593724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogomil simitchiev" height="30" width="40" /></a>
 <a href="https://www.facebook.com/BogomilSimitchiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bogomil simitchiev" height="30" width="40" /></a>
 <a href="https://instagram.com/simitchiev365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simitchiev365" height="30" width="40" /></a>
@@ -29,3 +30,5 @@
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bogomil-simitchiev&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHubStats" /></a>
 
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bogomil-simitchiev&" /></a>
+ 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/Bogomil-Simitchiev?theme=dark&font=Arvo&ext=heatmap)
