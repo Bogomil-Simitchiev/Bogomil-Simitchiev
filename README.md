@@ -1,7 +1,7 @@
 ![codingPhoto](https://user-images.githubusercontent.com/111244883/228016652-8d8d2ca2-f375-4286-938e-05f3df1981c4.png)
 
 <h1 align="center">Hi 👋, I'm Bogomil (in short Bogi)</h1>
-<h3 align="center">A passionate frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria</h3>
+<h3 align="center">An aspiring JavaScript developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogomil-simitchiev&label=Profile%20views&color=0e75b6&style=flat" alt="bogomil-simitchiev" /> </p>
 
