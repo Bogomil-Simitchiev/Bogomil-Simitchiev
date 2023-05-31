@@ -1,5 +1,3 @@
-![codingPhoto](https://user-images.githubusercontent.com/111244883/228016652-8d8d2ca2-f375-4286-938e-05f3df1981c4.png)
-
 <h1 align="center">Hi 👋, I'm Bogomil (in short Bogi)</h1>
 <h3 align="center">An aspiring JavaScript developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria</h3>
 
@@ -30,5 +28,3 @@
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bogomil-simitchiev&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHubStats" /></a>
 
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bogomil-simitchiev&" /></a>
- 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/Bogomil-Simitchiev?theme=dark&font=Arvo&ext=heatmap)
