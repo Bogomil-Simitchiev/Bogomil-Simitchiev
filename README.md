@@ -24,4 +24,3 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogomil-simitchiev&hide=jupyter%20notebook&theme=navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="205" width="475"></a>
- <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bogomil-Simitchiev&theme=navy&hide_border=false" /></a>
