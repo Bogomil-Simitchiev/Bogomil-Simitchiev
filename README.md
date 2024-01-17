@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bogomil (in short Bogi)</h1>
-<h3 align="center">An aspiring JavaScript developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria</h3>
+<h3 align="center">An aspiring Full-Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogomil-simitchiev&label=Profile%20views&color=0e75b6&style=flat" alt="bogomil-simitchiev" /> </p>
 
 - 🔭 I’m currently working on - <b>projects and exercises</b>
 
-- 🌱 I’m currently learning - <b>JavaScript, HTML and CSS</b>
+- 🌱 I’m currently learning - <b>Solidity, NodeJS and ReactJS</b>
 
 - 📫 How to reach me - <b>simitchiev365@gmail.com</b>
 
-- ⚡ Fun fact - **I'm 18 years old motivated school boy , who achieves his goals and wants to be better every single day. I think I'm a hard working person, who likes coding and takes it seriously. The quote I follow is - When you get tired, learn to rest, not to quit!**
+- ⚡ Fun fact - **I'm 18 years old motivated student, who achieves his goals and wants to be better every single day. I think I'm a hard working person, who likes coding and takes it seriously. The quote I follow is - When you get tired, learn to rest, not to quit!**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
