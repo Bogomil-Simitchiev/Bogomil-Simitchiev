@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - <b>simitchiev365@gmail.com (also active in every social media described bellow)</b>
 
-- ⚡ Fun fact - **19 years old motivated self-taught, who achieves his goals and wants to be better every single day. I think I'm a hard working person, who likes coding and takes it seriously. The quote I follow is - When you get tired, learn to rest, not to quit!**
+- ⚡ Fun fact - **20 years old motivated self-taught, who achieves his goals and wants to be better every single day. I think I'm a hard working person, who likes coding and takes it seriously. The quote I follow is - When you get tired, learn to rest, not to quit!**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
