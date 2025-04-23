@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on - <b>projects, one of them is ByteBazaar -> https://github.com/ValentinKardzhaliev/ByteBazaar</b>
 
-- 🌱 I’m currently learning - <b>Solidity and Web3 stuff</b>
+- 🌱 I’m currently learning - <b>Python and Web3 stuff</b>
 
 - 📫 How to reach me - <b>simitchiev365@gmail.com (also active in every social media described bellow)</b>
 
